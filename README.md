@@ -17,6 +17,4 @@ Also:
 
 My improving plan for this project is use CSS, link resume page.
 
-[This is link on future website](https://github.com "It's funny!")
-
 @lena-aiu :+1: This  looks great - it's ready to review! :hibiscus:
