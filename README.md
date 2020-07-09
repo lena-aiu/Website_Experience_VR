@@ -1,6 +1,6 @@
 # Experience_VR
 
-*06/11/2020 is the recent updates to the codebase.*
+*07/09/2020 is the recent updates to the codebase.*
 
 #### Website  Experience_VR 
 -----
